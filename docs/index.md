@@ -1,2 +1,4 @@
 # Hello World
-Hello World, this is a first an simple web page.
+Hello World, this is a first and simple web page.
+
+Work in progress ... more coming (hopefully) soon ...
